@@ -88,6 +88,7 @@
             label1.Size = new Size(98, 45);
             label1.TabIndex = 4;
             label1.Text = "(・ω・)";
+            label1.Click += label1_Click;
             // 
             // Form1
             // 
